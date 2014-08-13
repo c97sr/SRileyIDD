@@ -1,4 +1,4 @@
-srg.summarise.glm <- function(
+summarise.glm <- function(
   lstModels,
   outfunc=exp,
   writetab=TRUE,
