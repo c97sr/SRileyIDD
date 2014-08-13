@@ -1,0 +1,8 @@
+# SR's suggested file types not to version here
+
+# Intermediate build files
+*.o
+*.so
+
+# Temporary R files
+*.Rhistory

@@ -1,0 +1,9 @@
+Package: SRileyIDD
+Type: Package
+Title: A holding package for Steven Riley's modelling and analysis code
+Version: 0.1
+Date: 2014-08-11
+Author: Steven Riley
+Maintainer: Steven Riley <sr@stevenriley.net>
+Description: This acts as a way to distribute R functions that are not included in another package.
+License: GPL v3
