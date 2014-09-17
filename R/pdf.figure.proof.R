@@ -15,6 +15,7 @@
 # You should have received a copy of the GNU General Public License
 # along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
 
+# A function to setup a clean pdf file for a single subplot
 pdf.figure.proof <-
 function(findex=1,file=paste("./pdf_sub_",findex,".pdf",sep=""),pw=7,ph=7,textscale=0.6,xpd=NA) {
 	plotwidth <- pw/cm(1)
